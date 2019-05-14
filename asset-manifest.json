@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sumap/static/css/main.2cce8147.chunk.css",
-    "main.js": "/sumap/static/js/main.ffe7f7f4.chunk.js",
-    "main.js.map": "/sumap/static/js/main.ffe7f7f4.chunk.js.map",
+    "main.css": "/sumap/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/sumap/static/js/main.c7365cf3.chunk.js",
+    "main.js.map": "/sumap/static/js/main.c7365cf3.chunk.js.map",
     "runtime~main.js": "/sumap/static/js/runtime~main.dd24bb6d.js",
     "runtime~main.js.map": "/sumap/static/js/runtime~main.dd24bb6d.js.map",
-    "static/js/2.b41502e9.chunk.js": "/sumap/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/sumap/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.59972216.chunk.js": "/sumap/static/js/2.59972216.chunk.js",
+    "static/js/2.59972216.chunk.js.map": "/sumap/static/js/2.59972216.chunk.js.map",
     "index.html": "/sumap/index.html",
-    "precache-manifest.c4176ec4004383ecf92c89b699062bc7.js": "/sumap/precache-manifest.c4176ec4004383ecf92c89b699062bc7.js",
+    "precache-manifest.080f00c2669a3f4233316ceb300d348a.js": "/sumap/precache-manifest.080f00c2669a3f4233316ceb300d348a.js",
     "service-worker.js": "/sumap/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/sumap/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/sumap/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ba49ec77.chunk.css.map": "/sumap/static/css/main.ba49ec77.chunk.css.map"
   }
 }
