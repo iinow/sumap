@@ -4,6 +4,11 @@
   "private": true,
   "homepage": "https://iinow.github.io/sumap",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "contentful": "^7.6.0",
+    "daum-maps-react": "^1.0.1",
+    "eslint": "^5.16.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -13,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy":"npm run build&gh-pages -d build"
+    "deploy": "npm run build&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
